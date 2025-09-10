@@ -9,6 +9,7 @@ I’m **Dr. Gregory Murad Reis**, an **Associate Teaching Professor** at [Florid
 - Designed and taught a wide range of courses, including:
   - **Data Science for All (CAP 2752)**
   - **Internship Ready Software Development (CIS 3590)**
+  - **Principles of Programming Languages (COP 4555)**
   - **Introduction to Data Science (CAP 2757)**  
   - **Human-Computer Interaction (CAP 4104)**  
   - **Component-Based Software Development (COP 4814)**  
